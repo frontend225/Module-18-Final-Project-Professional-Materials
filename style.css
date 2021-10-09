@@ -1,0 +1,42 @@
+.inline-block li {
+    display:inline-block;
+    vertical-align: top;
+}
+.logo li {
+    width: 23%;
+    padding: 1%;
+}
+.nav li {
+    width: 73%;
+    padding: 1%;
+
+    }
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+.logo li {
+    text-align: center;
+
+}
+.bg-image {
+    width: 100%;
+    height: 200px;
+    padding-top: 50%;
+    background-image: url("images/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg");
+    background-size: cover;
+    
+}
+.content li {
+    width: 500px;
+    margin: 0 auto;
+}
+.footer li {
+background: color 373738px;
+padding: center;
+}
+ul {
+display:inline-block;
+vertical-align: top;
+padding: center;
+}
